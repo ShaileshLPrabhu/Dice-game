@@ -1,6 +1,6 @@
 # dice_page
 
-A new Flutter application.
+A Simple Dice Rolling App.
 
 ## Getting Started
 
